@@ -7,9 +7,9 @@
 
 [Ưu và nhược điểm của Linux]()
 
-   - [Ưu điểm Hệ điều hành Linux](#pragma-line-27)
+   - [Ưu điểm Hệ điều hành Linux](#ưu-điểm-hệ-điều-hành-linux)
      
-   - [Nhược điểm của Linux](#pragma-line-30)
+   - [Nhược điểm của Linux](#nhược-điểm-của-linux)
    
 [So sánh hệ điều hành Windows và Linux](#so-sánh-hệ-điều-hành-windows-và-linux)
 
@@ -36,7 +36,7 @@ Hiện nay, Linux được chia ra thành các phiên bản như: Ubuntu, Linux 
 
 
 ## 4 Ưu và nhược điểm của Linux
- -  Ưu điểm Hệ điều hành Linux
+ - ##### Ưu điểm Hệ điều hành Linux
  
     **1. Hệ điều hành Linux miễn phí**
     
@@ -56,7 +56,7 @@ Hiện nay, Linux được chia ra thành các phiên bản như: Ubuntu, Linux 
     Linux hỗ trợ cho máy cấu hình yếu
  
  
- - Nhược điểm của Linux
+ - ##### Nhược điểm của Linux
  
     - Số ứng dụng được trên Linux còn hạn chế.
     
