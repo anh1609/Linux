@@ -13,11 +13,15 @@
    
 [So sánh hệ điều hành Windows và Linux](#so-sánh-hệ-điều-hành-windows-và-linux)
 
+[Các phiên bản nổi bật của hệ điều hành Linux](#các-phiên-bản-nổi-bật-của-hệ-điều-hành-linux)
+
 
 ## 1. Linux là gì? 
 Linux là một hệ điều hành máy tính được phát triển từ năm 1991, dựa trên hệ điều hành Unix và viết bằng ngôn ngữ C.
 
 Đây là một hệ điều hành được phát hành miễn phí và có nhiều ưu điểm vượt trội nên thường được sử dụng nhiều hơn là Windows hay những hệ điều hành nào khác.
+
+![](https://vietnix.vn/wp-content/uploads/2021/07/linux-la-gi.webp)
 
 ## 2 Cấu trúc của Hệ điều hành Linux
 - Kernel: Hay còn được gọi là phần Nhân, là phần quan trọng và được ví như trái tim của HĐH Linux. Phần kernel quan trọng nhất của máy tính có nhiệm vụ chứa các module, thư viện để quản lý và giao tiếp với phần cứng và các ứng dụng.
@@ -70,10 +74,64 @@ Hiện nay, Linux được chia ra thành các phiên bản như: Ubuntu, Linux 
 |:----------|:----------|:----------|
 | Cấu trúc file             |   Cây dữ liệu        |    Thư mục       |
 | Registry                  |  Không có         |  Có         |
-| Trình quản lý gói         |     Quản lý gói (Package manager)      | *.exe          |
+| Trình quản lý gói         |     Quản lý gói (Package manager)      |  * .exe          |
 |Giao diện                  |  Giao diện thay đổi được         | Giao diện gắn liền hệ thống          |
 |Tài khoản và quyền Users   |   Rugular, Administrator (root), service	   |  Administrator, Standard, Child và Guest       |
 |Một số thiết lập điều khiến khác |Phù hợp cho công việc: Lướt web, chat, email,…     |  Phù hợp với mọi nhu cầu, đặc biệt chơi game       |
+
+
+### Cấu trúc file
+
+Cấu trúc của Linux khác hoàn toàn so với Windows. Nó được phát triển trên một mã gốc riếng với các nhà phát triển riêng lẻ. 
+
+Với Linux thì các thư mục My Document ở ổ đĩa C và D được thay thế bằng cây dữ liệu.
+
+Các ổ đĩa sẽ được đặt vào đó kể cả thư mục Home và Desktop.
+
+### Không sử dụng Registry
+
+Registry là một cơ sở dữ liệu chủ cho mọi thiết lập nằm trên máy tính với chức năng nắm giữ thông tin ứng dụng, mật khẩu, thiết bị,…
+
+Tuy nhiên trong Linux lại không sử dụng registry mà các dữ liệu được sử dụng dưới dạng module. Trong khi đó, Linux lưu dữ liệu người dùng thì Linux lưu các thiết lập của mình trên cơ sở chương trình phân cấp người dùng.
+
+### Quản lý gói
+
+Với Linux, các chương trình sẽ được cài đặt dưới dạng .exe như Windows mà được tập hợp trong một chương trình quản lý gói (Package manager). Với tính năng này, người dùng không phải lên các trình duyệt web để tải nữa, mà chỉ cần tìm kiến trong các kho dữ liệu của trình quản lý gói và thực hiện tải về.
+
+
+## Các phiên bản nổi bật của hệ điều hành Linux
+
+  1. **ubuntu**
+  
+  Ubuntu là phiên bản phổ biến nhất của Hệ điều hành Linux và được xem là loại HĐH dùng nhân Linux phổ biến nhất. Đây là một nhánh của Debian Linux.
+  
+  ![](https://vietnix.vn/wp-content/uploads/2022/03/ubuntu-1.webp)
+  
+  2. **Fedora – Red Hat**
+  
+  Fedora – Red Hat thường được tối ưu cho server, là một phiên bản tốt dành cho lập trình viên bởi nó hỗ trợ sẵn một số công cụ, nền tảng để lập trình. Ưu điểm của Fedora là khả năng dễ dàng tùy biến về giao diện.
+  
+  Fedora còn thường xuyên cập nhật những những công nghệ mới, tiên tiến như hệ thống tập tin mới, kỹ thuật ảo hóa mới,…
+  
+  ![](https://vietnix.vn/wp-content/uploads/2022/03/fedora.webp)
+  
+  3. **Linux Mint**
+  
+  Linux Mint là phiên bản GNU/Linux phát triển dựa trên nền tảng Ubuntu. Giao diện đồ họa desktop được thiết kế khá quen thuộc với người dùng Windows chính là ưu điểm của Mint. Đó là sự kết hợp giữa Windows 7 và macOS X. Ngoài ra, Linux Mint còn sở hữu kho ứng dụng đa dạng được kế thừa từ Ubuntu.
+  
+  ![](https://vietnix.vn/wp-content/uploads/2022/03/Linux-mint.webp)
+  
+  4. **Kali Linux**
+
+Kali Linux là một phiên bản Linux đặc biệt được phát triển và duy trì bởi Offensive Security khi được tổ chức này phát hành vào tháng 3 năm 2013.
+
+![](https://vietnix.vn/wp-content/uploads/2022/03/Kali-Linux.webp)
+
+5. **CentOS Linux**:
+CentOS là phiên bản Linux thường dùng cho máy chủ web, vận hành tốt và mượt mà trên các mainframe, đặc biệt là GUI, KDE, GNOME,…
+
+![](https://vietnix.vn/wp-content/uploads/2022/03/centos.webp)
+
 
 
 
