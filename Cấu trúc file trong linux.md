@@ -1,4 +1,15 @@
- # Cấu trúc thư mục
+ # Mục lục
+[Cấu trúc thư mục](#cấu-trúc-thư-mục)
+- [Root – Thư mục gốc](#1---root--thư-mục-gốc)
+- [2. /bin – Các tập tin thực thi của người dùng](#2-bin--các-tập-tin-thực-thi-của-người-dùng)
+- [3. /sbin – Các tập tin thực thi của hệ thống](#3-sbin--các-tập-tin-thực-thi-của-hệ-thống)
+- [4. /etc – Các tập tin cấu hình](#4-etc--các-tập-tin-cấu-hình)
+
+[Quản lý memory của linux](#quản-lý-memory-của-linux)
+
+
+ 
+ ## Cấu trúc thư mục
  
  Sơ lược thì hệ thống thư mục của ubuntu sẽ như sau:
  ![](https://images.viblo.asia/00898935-d72c-4019-b584-4cfc6af8593d.png)
@@ -84,3 +95,9 @@ Ví dụ: /medica/cdrom cho CD-ROM; /media/floppy cho ổ đĩa mềm; /media/cd
 - srv là viết tắt của service.
 - Chứa dữ liệu liên quan tới các dịch vụ trên máy chủ.
 Ví dụ: /srv/cvs chứa dữ liệu liên quan tới CVS.
+
+
+# Quản lý memory của linux
+
+
+
