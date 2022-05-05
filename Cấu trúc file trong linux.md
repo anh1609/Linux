@@ -12,7 +12,7 @@
  ## Cấu trúc thư mục
  
  Sơ lược thì hệ thống thư mục của ubuntu sẽ như sau:
- ![](file:///C:/Users/User/Pictures/%E1%BA%A3nh%20linux/treelinux.webp)
+ ![alt](file:///C:/Users/User/Pictures/%E1%BA%A3nh%20linux/treelinux.webp)
  
  ## 1. / – Root – Thư mục gốc
  
