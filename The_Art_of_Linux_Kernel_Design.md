@@ -20,7 +20,7 @@ Từ quan điểm của hệ thống ,chúng ta không thể thực hiện BIOS 
 
 Một  Intel 80×86 series CPU có thể làm việc với chế độ  16-bit địa chỉ thực và 32-bit chế độ bảo vệ
 
-![](aa.png)
+![]()
 Điều quan trọng nhất ở đây là CPU buộc CS thành 0xFFFF và
 IP thành 0x0000; do đó, địa chỉ của CS: IP là 0xFFFF0, như được mô tả trong Hình 1.1, trong đó
 chúng ta có thể xác nhận rằng 0xFFFF0 thực sự là địa chỉ của BIOS.
