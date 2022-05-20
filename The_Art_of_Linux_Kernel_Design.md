@@ -25,3 +25,5 @@ Một  Intel 80×86 series CPU có thể làm việc với chế độ  16-bit �
 IP thành 0x0000; do đó, địa chỉ của CS: IP là 0xFFFF0, như được mô tả trong Hình 1.1, trong đó
 chúng ta có thể xác nhận rằng 0xFFFF0 thực sự là địa chỉ của BIOS.
 
+### Tip
+IP / EIP: instruction pointer Trong CPU, IP lưu trữ tập hợp các hướng dẫn để được thực thi trong mã.
